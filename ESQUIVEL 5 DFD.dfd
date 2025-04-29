@@ -1,0 +1,62 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+8
+1
+1
+I
+1
+1
+0
+1
+1
+7
+1
+1
+1
+6
+2
+6
+MENOR 
+1
+0
+5
+MAYOR
+1
+0
+4
+1
+31
+" SEÑOR USUARIO DIGITE SU EDAD"
+5
+1
+4
+EDAD
+7
+0
+1
+8
+EDAD>=18
+6
+1
+6
+MENOR 
+9
+MENOR + 1
+13
+6
+1
+5
+MAYOR
+9
+MAYOR + 1
+13
+10
+4
+1
+75
+ " EL TOTAL DE MAYORES DE EDAD:" , MAYOR,"Y EL TOTAL DE MENORESES:",MENORES
+1
